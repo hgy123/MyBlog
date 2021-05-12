@@ -5,6 +5,13 @@ narrow: true
 title: Welcome to Friday Theme
 ---
 
+### Recent Posts
+
+{% for post in site.posts limit:3 %}
+{% include components/post-card.html %}
+{% endfor %}
+
+
 ## What is it?
 
 {% include components/intro.md %}
@@ -21,10 +28,6 @@ This web site is the documentation for the theme and also provides examples of h
 
 <hr />
 
-### Recent Posts
 
-{% for post in site.posts limit:3 %}
-{% include components/post-card.html %}
-{% endfor %}
 
 
