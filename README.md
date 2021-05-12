@@ -1,4 +1,4 @@
-# Friday Theme
+# My Blog
 
 ## A Bootstrap 4 portfolio and blog theme for Jekyll
 
