@@ -1,9 +1,9 @@
 # My Blog
 
-## A Bootstrap 4 portfolio and blog theme for Jekyll
+## Blog site
 
-* Example 1: This repo builds directly to GitHub pages, which is also the documentation:  https://sfreytag.github.io/friday-theme/
-* Example 2: my own homepage, http://www.freytag.org.uk
+*1: This repo builds directly to GitHub pages, which is also the documentation:  https://sfreytag.github.io/friday-theme/
+* 2: My own homepage: https://hgy123.github.io/MyBlog/
 
 ## Get Started
 
