@@ -2,7 +2,7 @@
 
 ## Blog site
 
-*1: This repo builds directly to GitHub pages, which is also the documentation:  https://sfreytag.github.io/friday-theme/
+* 1: This repo builds directly to GitHub pages, which is also the documentation:  https://sfreytag.github.io/friday-theme/
 * 2: My own homepage: https://hgy123.github.io/MyBlog/
 
 ## Get Started
